@@ -1,0 +1,72 @@
+# Build directories
+build/
+build-*/
+cmake-build-*/
+out/
+
+# CMake & Ninja artifacts
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeUserPresets.json
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+install_manifest.txt
+*.ninja
+.ninja_deps
+.ninja_log
+
+# Compiled binaries & object files
+*.o
+*.obj
+*.lo
+*.slo
+*.a
+*.lib
+*.la
+*.lai
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.suo
+*.user
+
+# Qt & Qt Creator
+.qtcreator/
+.qtc_clangd/
+.qm/
+*_autogen/
+CMakeLists.txt.user*
+*.pro.user*
+*.autosave
+.qmake.stash
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile*
+
+# IDE / Editors
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+

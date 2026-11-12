@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/audio/pistol_fire.wav</file>
+        <file>assets/audio/rifle_fire.wav</file>
+        <file>assets/audio/sniper_fire.wav</file>
+        <file>assets/audio/reload.wav</file>
+        <file>assets/audio/taser_zap.wav</file>
+        <file>assets/audio/terminator_alert.wav</file>
+        <file>assets/audio/terminator_melee.wav</file>
+        <file>assets/audio/ui_wire_click.wav</file>
+        <file>assets/audio/terminal_typing.wav</file>
+        <file>assets/audio/vault_door.wav</file>
+        <file>assets/audio/ambience_drone.wav</file>
+        <file>assets/maps/level1.txt</file>
+        <file>assets/maps/level2.txt</file>
+    </qresource>
+</RCC>
+
